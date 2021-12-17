@@ -1,4 +1,4 @@
 # jenkins-git
 A simple project to test jenkins git integration.
 
-And it should by triggered be a change.
+And it should be triggered by a change.
