@@ -12,3 +12,4 @@ no changes
 
 
 0 trigger
+ waiting for next poll to consider
